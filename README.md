@@ -1,0 +1,2 @@
+# sotamnovi
+Blog pessoal
